@@ -1,57 +1,38 @@
 # Summary
-<!--- Intution Intution Intution -->
-<!--- the WHYs whenever we can -->
 
-<!-- Introduce fun challenges at the end of each section? -->
-- [Welcome](./Welcome.md)
-- [Installation & Set-up](./Installation%20&%20Set-up.md)
-    - [The Libraries](./The$20Libraries)
-- [The Math you need]  <!-- You don't need it for MDN but if you want to do xyz then .. -->
-- [Deep Learning]
-    - [What is Deep Learning]
-    - [Types of Learning] <!-- Relevant exapmples -->
-    - [Core Concepts of Deep learning]
-        - [Datasets]  
-        - [Neural network] 
-        - [Gradient Descent]
-        - [Learning Rates]
-        - [Loss Functions] 
-        - [Metrics]
-        - [Code it up from scratch]
-
- 
-- [CNN]
-    - [Why not MLPs]
-    - [What are CNNs]
-    - [Why do CNNs work]
-    - [Revolutionary CNNs]
-        - [Vanishing Gradient? Introduce Skip Connections]
-    - [Limitations]
-
-<!-- I say we leave this to the last -->
-- [RNNs] 
-
-- [RL]
-- [Trasnformers]
-<!--- (Build it using examples from the ground up in text and maybe images ? What problems does it alleviate that CNNs can't overcome) -->
-<!--- Compare it to RNNs?-->
-<!--  More sections to add here-->
-
-    - [Motivations to Trasnformers]
-    - [Transformers vs ex models RNNs etc]
-    -[The structure]
-        -[Attention mechanism and why]
-        -[Self-attention and multi-head attention]
-        -[Positional encoding]
-
-        -[Encoder and decoder structures]
-        -[Feed-forward layers]
-        -[Residual connections and layer normalization]
-    - [Popular Transformer Models]
-
-
-
-- [Units to take]
-
-
-
+- [Welcome](Welcome.md)
+- [Installation & Set-up](Installation%20&%20Set-up.md)
+  - [The Libraries](The%20Libraries.md)
+- [The Math You Need](The%20Math%20You%20Need.md)
+- [Deep Learning](Deep%20Learning.md)
+  - [What is Deep Learning](Deep%20Learning/What%20is%20Deep%20Learning.md)
+  - [Types of Learning](Deep%20Learning/Types%20of%20Learning.md)
+  - [Core Concepts of Deep Learning](Deep%20Learning/Core%20Concepts.md)
+    - [Datasets](Deep%20Learning/Core%20Concepts/Datasets.md)
+    - [Neural Network](Deep%20Learning/Core%20Concepts/Neural%20Network.md)
+    - [Gradient Descent](Deep%20Learning/Core%20Concepts/Gradient%20Descent.md)
+    - [Learning Rates](Deep%20Learning/Core%20Concepts/Learning%20Rates.md)
+    - [Loss Functions](Deep%20Learning/Core%20Concepts/Loss%20Functions.md)
+    - [Metrics](Deep%20Learning/Core%20Concepts/Metrics.md)
+    - [Code It Up from Scratch](Deep%20Learning/Core%20Concepts/Code%20It%20Up.md)
+- [CNN](CNN.md)
+  - [Why Not MLPs](CNN/Why%20Not%20MLPs.md)
+  - [What are CNNs](CNN/What%20are%20CNNs.md)
+  - [Why Do CNNs Work](CNN/Why%20Do%20CNNs%20Work.md)
+  - [Revolutionary CNNs](CNN/Revolutionary%20CNNs.md)
+    - [Vanishing Gradient? Introduce Skip Connections](CNN/Revolutionary%20CNNs/Skip%20Connections.md)
+  - [Limitations](CNN/Limitations.md)
+- [RNNs](RNNs.md)
+- [Reinforcement Learning](RL.md)
+- [Transformers](Transformers.md)
+  - [Motivations for Transformers](Transformers/Motivations.md)
+  - [Transformers vs. Previous Models](Transformers/Comparison.md)
+  - [The Structure](Transformers/Structure.md)
+    - [Attention Mechanism and Why](Transformers/Structure/Attention.md)
+    - [Self-Attention and Multi-Head Attention](Transformers/Structure/Self-Attention.md)
+    - [Positional Encoding](Transformers/Structure/Positional%20Encoding.md)
+    - [Encoder and Decoder Structures](Transformers/Structure/Encoder%20Decoder.md)
+    - [Feed-Forward Layers](Transformers/Structure/Feed-Forward.md)
+    - [Residual Connections and Layer Normalization](Transformers/Structure/Residual%20Connections.md)
+  - [Popular Transformer Models](Transformers/Popular%20Models.md)
+- [Units to Take](Units%20to%20Take.md)
