@@ -1,9 +1,11 @@
-# Summary
+# SUMMARY
+Note that these are the subsections I was able to come up with on a swift. For the topics you are working on, please elaborate/slash some of the topics out.You are free to do whatever as long as it is made with passion. 
 
-- [Welcome](Welcome.md)
-- [Installation & Set-up](Installation%20&%20Set-up.md)
-  - [The Libraries](The%20Libraries.md)
-- [The Math You Need](The%20Math%20You%20Need.md)
+[Getting started](Getting%20Started.md)\
+[Welcome](Welcome.md)\
+[Installation & Set-up](Installation%20&%20Set-up.md)
+[The Libraries](The%20Libraries.md)\
+[The Math You Need](The%20Math%20You%20Need.md)
 - [Deep Learning](Deep%20Learning.md)
   - [What is Deep Learning](Deep%20Learning/What%20is%20Deep%20Learning.md)
   - [Types of Learning](Deep%20Learning/Types%20of%20Learning.md)
@@ -24,6 +26,8 @@
   - [Limitations](CNN/Limitations.md)
 - [RNNs](RNNs.md)
 - [Reinforcement Learning](RL.md)
+- NLP
+-
 - [Transformers](Transformers.md)
   - [Motivations for Transformers](Transformers/Motivations.md)
   - [Transformers vs. Previous Models](Transformers/Comparison.md)
@@ -34,5 +38,7 @@
     - [Encoder and Decoder Structures](Transformers/Structure/Encoder%20Decoder.md)
     - [Feed-Forward Layers](Transformers/Structure/Feed-Forward.md)
     - [Residual Connections and Layer Normalization](Transformers/Structure/Residual%20Connections.md)
-  - [Popular Transformer Models](Transformers/Popular%20Models.md)
-- [Units to Take](Units%20to%20Take.md)
+  [Popular Transformer Models](Transformers/Popular%20Models.md)
+[Units to Take](Units%20to%20Take.md)
+
+-----------
