@@ -1,0 +1,3 @@
+The Handbook
+
+This handbook was developed and brought forward to address an issue I have noticed in the onboarding process. This serves as a technical reference. There are many tutorials, way better than this handbook out there from much more knowledgable individuals. However, this notebook is simply from the perspective of MDN members to another after based on their experiences and research in hopes of making this team move forward and grow.  Our members are motivated and more capable than ever, however, they need guidance and direction. We aim to make this a refernece and a place to share experiences for the students to help them upskill faster and build faster.
